@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-brand > img {
-  margin-top: -12px;
+  margin-top: -15px;
 }
 
 @media screen and (max-width: 768px) {
