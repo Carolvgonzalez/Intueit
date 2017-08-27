@@ -441,6 +441,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+.price{
+  line-height: 50px;
+}
 .slant {
   position: absolute;
   transform: rotate(-1.7deg);
